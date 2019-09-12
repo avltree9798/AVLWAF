@@ -1,0 +1,14 @@
+{
+    "name": "avltree/waf",
+    "description": "Web Application Firewall for Laravel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Anthony Viriya",
+            "email": "anthonyviriya98@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
